@@ -248,11 +248,15 @@ Name		Description
 
 ## Contacto
 
-* diegobarriga at protonmail
-* contacto at elotl.mx
-* @elotl_
+* *diegobarriga at protonmail*
+* *contacto at elotl.mx*
+* @elotl_ - Twitter
 * elotl.mx
-* github.com/ElotlMX
+* `github.com/ElotlMX`
+
+## Slides
+
+* `github.com/ElotlMX/ccoss-2020-esquite`
 
 # Recursos
 
